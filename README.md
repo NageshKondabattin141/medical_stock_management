@@ -1,0 +1,1 @@
+# medical_stock_management
